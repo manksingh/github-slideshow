@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I don't like quotations. Tell me what you know. ~R W Emerson.
 Use the left arrow to go back!
